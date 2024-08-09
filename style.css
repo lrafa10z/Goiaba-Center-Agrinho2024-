@@ -8,17 +8,23 @@ body, h1, h2, p, ul {
 body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
-    background-color: #f4f4f4; /* Cor de fundo suave */
+    background-color: #809864; /* Cor de fundo suave */
     color: #333; /* Cor do texto */
     padding: 0;
     margin: 0;
 }
 
 header {
-    background-color: #333;
+    background-color: #CE6259;
     color: #fff;
     padding: 10px 0;
 }
+
+.site-logo {
+    height: 50px; /* Ajuste a altura conforme necessário */
+    width: auto; /* Mantém a proporção da imagem */
+}
+
 
 .container {
     width: 80%;
@@ -87,4 +93,29 @@ main {
     height: auto;
     border-radius: 8px;
     margin: 20px 0;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.floating-footer {
+    position: fixed;
+    bottom: 10px; /* Distância da borda inferior da tela */
+    right: 10px; /* Distância da borda direita da tela */
+    background-color: #333;
+    color: #fff;
+    padding: 10px 15px;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    font-size: 0.9em;
+    z-index: 1000; /* Garante que o footer fique sobre outros elementos */
+}
+
+.floating-footer p {
+    margin: 0;
 }
