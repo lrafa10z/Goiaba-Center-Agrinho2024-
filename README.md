@@ -26,4 +26,4 @@ O objetivo principal do **GOIABA CENTER** é promover a goiaba, destacando sua i
 
 ## Autor
 
-Desenvolvido por Rafael Martins Lobo, o site é uma homenagem à goiaba e à região de Carlópolis, onde a produção da fruta desempenha um papel crucial na vida econômica e social, e faz parte do Projeto Agrinho de Programação 2024.
+Desenvolvido por **Rafael Martins Lobo**, o site é uma homenagem à goiaba e à região de Carlópolis, onde a produção da fruta desempenha um papel crucial na vida econômica e social, e faz parte do Projeto Agrinho de Programação 2024.
