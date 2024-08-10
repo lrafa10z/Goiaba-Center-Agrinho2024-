@@ -91,11 +91,31 @@ main {
     line-height: 1.6;
 }
 
+figure {
+    position: relative;
+    display: inline-block;
+    margin: 0;
+}
+
+figcaption {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    background-color: rgba(43, 255, 0, 0.5);
+    color: #fff;
+    font-size: 0.8em;
+    padding: 5px;
+    border-radius: 3px;
+    text-align: right;
+    margin: 0;
+}
+
 .responsive-image {
     width: 100%;
     height: auto;
     border-radius: 8px;
     margin: 20px 0;
+    display: block;
 }
 
 footer {
