@@ -24,6 +24,6 @@ O objetivo principal do **GOIABA CENTER** é promover a goiaba, destacando sua i
 - **HTML e CSS:** Estruturação e estilização do conteúdo.
 - **Imagens Responsivas:** Imagens adaptadas para diferentes tamanhos de tela.
 
-## Autores
+## Autor
 
-Desenvolvido por Camila Rissa Yamamoto, Evelin Cristiny da Silva Neves, Felipe Manoel Costa, Mateus da Costa Nunes e Rafael Martins Lobo, o site é uma homenagem à goiaba e à região de Carlópolis, onde a produção da fruta desempenha um papel crucial na vida econômica e social, e faz parte do Projeto Agrinho de Programação 2024.
+Desenvolvido por Rafael Martins Lobo, o site é uma homenagem à goiaba e à região de Carlópolis, onde a produção da fruta desempenha um papel crucial na vida econômica e social, e faz parte do Projeto Agrinho de Programação 2024.
